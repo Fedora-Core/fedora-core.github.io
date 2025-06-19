@@ -1,2 +1,2 @@
 # fedora-core.github.io
-Redora-Core
+Fedora-Core
